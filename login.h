@@ -51,7 +51,7 @@ class LoginManager{
             }
         }
         
-        return 0;
+        return "NAN";
     }
     
     void processFile(vector<Account> &accounts){
